@@ -3,3 +3,4 @@
 - Leilanie: carrot cake
 - Carmen: cookies
 - Leilanie: pie
+- Leilanie: dark chocolate
