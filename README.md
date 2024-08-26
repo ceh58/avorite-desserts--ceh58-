@@ -1,3 +1,4 @@
 # Favorite Desserts
 - Carmen: ice cream
-- Leilanie: baklava
+- Leilanie: carrot cake
+- Carmen: cookies
